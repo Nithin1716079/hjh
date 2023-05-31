@@ -1,4 +1,5 @@
 AWSTemplateFormatVersion: '2010-09-09'
+cddf
 Description: Multi-Region EC2 Migration using AWS Application Migration Service
 
 Parameters:
